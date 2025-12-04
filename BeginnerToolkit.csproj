@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- Project type: Console Application -->
+    <OutputType>Exe</OutputType>
+
+    <!-- Target framework: .NET 6 LTS -->
+    <TargetFramework>net6.0</TargetFramework>
+
+    <!-- Optional metadata -->
+    <RootNamespace>BeginnerToolkit</RootNamespace>
+    <AssemblyName>BeginnerToolkit</AssemblyName>
+  </PropertyGroup>
+
+</Project>
