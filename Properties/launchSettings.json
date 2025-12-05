@@ -14,11 +14,6 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "applicationArguments": "--prod"
-    },
-    "BeginnerToolkit-Interactive": {
-      "commandName": "Project",
-      "dotnetRunMessages": true,
-      "applicationArguments": "--interactive"
     }
   }
 }
