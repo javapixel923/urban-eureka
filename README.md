@@ -14,14 +14,14 @@ A simple C# console toolkit for beginners to practice core programming concepts.
 
 ---
 
-📦 Requirements
+ Requirements
 - .NET SDK (6.0 LTS or 8.0)
 - Editor: Acode (Android), VS Code, or Rider
 - Git (optional, for version control)
 
 ---
 
-⚙️ Setup Instructions
+Setup Instructions
 `bash
 
 Clone this repository
@@ -34,16 +34,16 @@ dotnet run
 
 ---
 
-📚 Curriculum Links
+ Curriculum Links
 - Microsoft Learn: C# Fundamentals
 - FreeCodeCamp C# Basics
 - Dotnet CLI Documentation
 
 ---
 
-🧑‍💻 Examples of Toolkit Usage
+  Examples of Toolkit Usage
 
-🧮 Average Calculation
+  Average Calculation
 `csharp
 int[] numbers = { 5, 10, 15 };
 double avg = Toolkit.CalculateAverage(numbers);
@@ -57,7 +57,7 @@ Average of [5,10,15] = 10
 
 ---
 
-🔄 Reverse String
+ Reverse String
 `csharp
 string reversed = Toolkit.ReverseString("hello");
 Console.WriteLine($"Reversed 'hello' = {reversed}");
@@ -70,7 +70,7 @@ Reversed 'hello' = olleh
 
 ---
 
-🔢 Square Number
+  Square Number
 `csharp
 Console.WriteLine($"Square of 7 = {Toolkit.SquareNumber(7)}");
 `
@@ -82,7 +82,7 @@ Square of 7 = 49
 
 ---
 
-🔍 Check Even Number
+  Check Even Number
 `csharp
 Console.WriteLine($"Is 10 even? {Toolkit.IsEven(10)}");
 Console.WriteLine($"Is 11 even? {Toolkit.IsEven(11)}");
@@ -96,7 +96,7 @@ Is 11 even? False
 
 ---
 
-🔧 Toolkit Function Examples
+  Toolkit Function Examples
 
 | Function           | Example Input     | Example Code                                              | Expected Output |
 |--------------------|-------------------|-----------------------------------------------------------|-----------------|
@@ -108,7 +108,7 @@ Is 11 even? False
 
 ---
 
-🛠 Common Issues & Fixes
+  Common Issues & Fixes
 
 | Issue                          | Cause                                               | Fix                                                        |
 |--------------------------------|-----------------------------------------------------|-------------------------------------------------------------|
