@@ -16,6 +16,17 @@ Built with C# and .NET’s safety and productivity guarantees.
 ---
 
   Requirements
+Operating System: Windows, macOS, Linux, or Android (via Termux/Acode)  
+Minimum RAM: 2 GB  
+
+         Required Tools:  
+   - .NET SDK (6.0 LTS or 8.0)  
+   - Code editor (VS Code, Rider, or Acode for Android)  
+   - Git (optional, for version control)  
+        Dependencies: 
+   - xUnit (for testing)  
+   - Microsoft.NET.Test.Sdk  
+
 - .NET SDK (6.0 LTS or 8.0 recommended)  
 - Editor: Acode (Android), VS Code, or Rider  
   
