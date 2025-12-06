@@ -18,7 +18,7 @@ Built with C# and .NET’s safety and productivity guarantees.
   Requirements
 - .NET SDK (6.0 LTS or 8.0 recommended)  
 - Editor: Acode (Android), VS Code, or Rider  
-- Git (optional, for version control)
+  
 
 Check your installed version:
 `bash
