@@ -22,7 +22,8 @@ Minimum RAM: 2 GB
          Required Tools:  
    - .NET SDK (6.0 LTS or 8.0)  
    - Code editor (VS Code, Rider, or Acode for Android)  
-   - Git (optional, for version control)  
+   - Git (optional, for version control) 
+
         Dependencies: 
    - xUnit (for testing)  
    - Microsoft.NET.Test.Sdk  
